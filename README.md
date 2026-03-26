@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;Building+scalable+APIs+%26+Web+Apps;Node.js+%7C+React+%7C+PostgreSQL;Always+learning%2C+always+growing+🌱)](https://git.io/typing-svg)
 
 ---
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Moise-codes)
 [![GitHub](https://img.shields.io/badge/GitHub-Moise--Codes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moise-codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yehovayire-moise)
