@@ -13,12 +13,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yehovayire-moise)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehovayiremoise@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Moise-codes&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/Moise-codes?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)
-![Stars](https://img.shields.io/github/stars/Moise-codes?style=for-the-badge&color=FFD700&labelColor=0D1117&logo=github)
-
 </div>
 
 ---
@@ -35,15 +29,13 @@
 
 <div align="center">
 
-[**About**](#about-me) · [**Expertise**](#core-expertise) · [**Stack**](#tech-stack) · [**Projects**](#featured-projects) · [**Stats**](#github-analytics) · [**Connect**](#lets-connect)
+[**About**](#about-me) · [**Expertise**](#core-expertise) · [**Stack**](#tech-stack) · [**Projects**](#featured-projects) · [**Focus**](#current-focus) · [**Connect**](#lets-connect)
 
 </div>
 
 ---
 
 ## About Me
-
-<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moise-codes&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 ```yaml
 # ─────────────────────────────────────────────
@@ -67,24 +59,17 @@ domains:
   - Containerized Deployments
   - Systems Programming
 
-current_focus:
-  - dev-connect-api
-  - Moise-chat-app
-  - task-manager-api
-
 philosophy: "Code. Learn. Build. Repeat."
 fun_fact:   "I debug with console.log and I'm not ashamed"
 ```
 
-<br clear="right"/>
-
 **What drives me**
 
 - Shipping **production-ready APIs** and **full-stack applications**
-- Leveling up on **system design**, **cloud infra**, and **DevOps culture**
+- Leveling up on **system design**, **cloud infrastructure**, and **DevOps culture**
 - Obsessed with **clean architecture**, **testability**, and **documentation**
-- Open to **collaborations**, **freelance**, and **open-source**
-- Based in **Kigali** — engineering for the world
+- Open to **collaborations**, **freelance work**, and **open-source contributions**
+- Based in **Kigali, Rwanda** — engineering for the world
 
 ---
 
@@ -153,29 +138,6 @@ fun_fact:   "I debug with console.log and I'm not ashamed"
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,linux,postman,vscode" />
 </p>
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br/><sub><b>Java</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" /><br/><sub><b>Go</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" /><br/><sub><b>C</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br/><sub><b>C++</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" /><br/><sub><b>PHP</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br/><sub><b>TypeScript</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br/><sub><b>Node.js</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" /><br/><sub><b>Express</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring" /><br/><sub><b>Spring</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br/><sub><b>React</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br/><sub><b>MySQL</b></sub></td>
-</tr>
-</table>
 
 </div>
 
@@ -319,55 +281,75 @@ fun_fact:   "I debug with console.log and I'm not ashamed"
 
 ---
 
-## GitHub Analytics
+## Current Focus
+
+<table align="center">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Building
+```text
+dev-connect-api
+Moise-chat-app
+task-manager-api
+```
+Production-grade APIs
+and full-stack apps.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Learning
+```text
+System Design
+Cloud Infra
+Kubernetes
+Go Concurrency
+```
+Deepening backend
+and platform skills.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Open To
+```text
+Collaborations
+Freelance
+Open Source
+Remote Roles
+```
+Let's build something
+worth shipping.
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering Principles
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moise-codes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moise-codes&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Moise-codes&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)](https://git.io/streak-stats)
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Moise-codes&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
+| Principle | Practice |
+|-----------|----------|
+| **Clean Architecture** | Separate concerns, keep boundaries clear |
+| **Documentation First** | If it isn't documented, it doesn't exist |
+| **Test What Matters** | Cover the paths that break in production |
+| **Ship Iteratively** | Small, reviewable, reversible changes |
+| **Automate Everything** | Docker, CI/CD, and repeatable environments |
+| **Read the Source** | Understanding beats guessing every time |
 
 </div>
 
 ---
 
-## Contribution Activity
+## Dev Philosophy
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moise-codes&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moise-codes/Moise-codes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Moise-codes/Moise-codes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Moise-codes/Moise-codes/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+> *"Code is read far more often than it is written. Write for the next engineer — who might be you in six months."*
 
 </div>
 
